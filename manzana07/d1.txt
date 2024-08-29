@@ -1,0 +1,35 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: A207-FA5F
+
+ Directorio de C:\planos\manzana07
+
+28/08/2024  08:54 p. m.            91,949 FOLIO 528356(FRACCION 133).dwg
+28/08/2024  08:58 p. m.            92,047 FOLIO 528356(FRACCION 134).dwg
+28/08/2024  09:01 p. m.            91,244 FOLIO 528356(FRACCION 135).dwg
+28/08/2024  09:04 p. m.            91,632 FOLIO 528356(FRACCION 136).dwg
+28/08/2024  08:50 p. m.           116,737 FOLIO 528356(FRACCION 137).dwg
+28/08/2024  09:10 p. m.            91,538 FOLIO 528356(FRACCION 138).dwg
+28/08/2024  08:44 p. m.            91,533 FOLIO 528356(FRACCION 139).dwg
+28/08/2024  08:47 p. m.            91,692 FOLIO 528356(FRACCION 140).dwg
+28/08/2024  09:25 p. m.            91,691 FOLIO 528356(FRACCION 141).dwg
+28/08/2024  09:22 p. m.            92,593 FOLIO 528356(FRACCION 142).dwg
+28/08/2024  09:18 p. m.            91,694 FOLIO 528356(FRACCION 143).dwg
+28/08/2024  09:16 p. m.           117,369 FOLIO 528356(FRACCION 144).dwg
+28/08/2024  09:13 p. m.            92,207 FOLIO 528356(FRACCION 145).dwg
+28/08/2024  10:22 p. m.            91,313 FOLIO 528356(FRACCION 146).dwg
+28/08/2024  09:40 p. m.           124,683 FOLIO 528356(FRACCION 147).dwg
+28/08/2024  09:37 p. m.            91,820 FOLIO 528356(FRACCION 148).dwg
+28/08/2024  09:35 p. m.            92,013 FOLIO 528356(FRACCION 149).dwg
+28/08/2024  09:42 p. m.            91,755 FOLIO 528356(FRACCION 150).dwg
+28/08/2024  09:59 p. m.           111,737 FOLIO 528356(FRACCION 151).dwg
+28/08/2024  09:56 p. m.           111,711 FOLIO 528356(FRACCION 152).dwg
+28/08/2024  09:53 p. m.            91,727 FOLIO 528356(FRACCION 153).dwg
+28/08/2024  09:50 p. m.            91,758 FOLIO 528356(FRACCION 154).dwg
+28/08/2024  10:01 p. m.            91,664 FOLIO 528356(FRACCION 155).dwg
+28/08/2024  10:18 p. m.           111,670 FOLIO 528356(FRACCION 156).dwg
+28/08/2024  10:13 p. m.           120,180 FOLIO 528356(FRACCION 157).dwg
+28/08/2024  10:09 p. m.            91,825 FOLIO 528356(FRACCION 158).dwg
+28/08/2024  10:06 p. m.            91,598 FOLIO 528356(FRACCION 159).dwg
+28/08/2024  10:20 p. m.            92,240 FOLIO 528356(FRACCION 160).dwg
+              28 archivos      2,741,620 bytes
+               0 dirs  32,739,303,424 bytes libres
