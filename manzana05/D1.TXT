@@ -1,0 +1,39 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: A207-FA5F
+
+ Directorio de C:\planos\manzana05
+
+29/08/2024  08:42 p. m.    <DIR>          .
+29/08/2024  08:42 p. m.    <DIR>          ..
+29/08/2024  08:43 p. m.                 0 D1.TXT
+27/08/2024  08:57 p. m.           133,358 FOLIO 528356(FRACCION 21).dwg
+27/08/2024  09:00 p. m.            90,066 FOLIO 528356(FRACCION 22).dwg
+27/08/2024  08:58 p. m.            90,897 FOLIO 528356(FRACCION 23).dwg
+27/08/2024  08:58 p. m.            91,276 FOLIO 528356(FRACCION 24).dwg
+27/08/2024  09:04 p. m.            90,832 FOLIO 528356(FRACCION 25).dwg
+27/08/2024  09:08 p. m.            91,050 FOLIO 528356(FRACCION 26).dwg
+27/08/2024  09:08 p. m.            91,150 FOLIO 528356(FRACCION 27).dwg
+27/08/2024  09:07 p. m.            90,832 FOLIO 528356(FRACCION 28).dwg
+27/08/2024  09:06 p. m.            90,892 FOLIO 528356(FRACCION 29).dwg
+27/08/2024  09:09 p. m.            90,892 FOLIO 528356(FRACCION 30).dwg
+27/08/2024  09:13 p. m.            90,896 FOLIO 528356(FRACCION 31).dwg
+27/08/2024  09:12 p. m.            90,989 FOLIO 528356(FRACCION 32).dwg
+27/08/2024  09:11 p. m.            90,994 FOLIO 528356(FRACCION 33).dwg
+27/08/2024  09:10 p. m.            91,758 FOLIO 528356(FRACCION 34).dwg
+27/08/2024  09:13 p. m.            92,112 FOLIO 528356(FRACCION 35).dwg
+27/08/2024  09:16 p. m.            90,287 FOLIO 528356(FRACCION 36).dwg
+27/08/2024  09:15 p. m.            91,056 FOLIO 528356(FRACCION 37).dwg
+27/08/2024  09:15 p. m.            91,183 FOLIO 528356(FRACCION 38).dwg
+27/08/2024  09:14 p. m.            91,055 FOLIO 528356(FRACCION 39).dwg
+27/08/2024  09:17 p. m.           124,071 FOLIO 528356(FRACCION 40).dwg
+27/08/2024  09:27 p. m.            91,019 FOLIO 528356(FRACCION 41).dwg
+27/08/2024  09:28 p. m.           116,888 FOLIO 528356(FRACCION 42).dwg
+27/08/2024  09:26 p. m.            91,117 FOLIO 528356(FRACCION 43).dwg
+27/08/2024  09:26 p. m.            91,024 FOLIO 528356(FRACCION 44).dwg
+27/08/2024  09:25 p. m.            91,117 FOLIO 528356(FRACCION 45).dwg
+27/08/2024  09:24 p. m.            91,115 FOLIO 528356(FRACCION 46).dwg
+27/08/2024  09:23 p. m.            90,066 FOLIO 528356(FRACCION 47).dwg
+27/08/2024  09:28 p. m.            92,049 FOLIO 528356(FRACCION 48).dwg
+27/08/2024  08:55 p. m.                 0 hardcopy.log
+              30 archivos      2,650,041 bytes
+               2 dirs  32,839,827,456 bytes libres
